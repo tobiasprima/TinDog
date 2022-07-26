@@ -117,3 +117,10 @@ a {
 .carousel-item {
     padding: 7% 15%;
 }
+
+/* Pricing */
+
+#pricing {
+    text-align: center;
+    padding: 25px;
+}
