@@ -140,6 +140,17 @@ a {
 /* CTA */
 #cta {
     text-align: center;
+    background-color: #ff4c68;
+    text-align: center;
+    padding: 10px 15%;
+}
+
+.ctahead {
+    font-size: 3rem;
+    font-family: 'Montserrat-Black';
+    font-weight: bolder;
+    color: #fff;
+    line-height: 1.5;
 }
 
 /* Footer */
